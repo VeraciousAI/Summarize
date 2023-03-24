@@ -1,2 +1,2 @@
 # Summarize
-Summarising a PDF file using Langchain
+Summarising a PDF file using Langchain.
